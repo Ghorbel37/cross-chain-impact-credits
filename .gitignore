@@ -1,0 +1,25 @@
+# Dependencies (npm install recreates them)
+node_modules/
+
+# Secrets
+.env
+
+# Scala / Metals / sbt build and IDE files
+.metals/
+.bsp/
+.bloop/
+.scala-build/
+target/
+
+# Wake (Solidity extension) local chain state
+.wake/
+
+# Logs
+logs/
+*.log
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

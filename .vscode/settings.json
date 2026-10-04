@@ -1,6 +1,0 @@
-{
-    "wake.compiler.solc.remappings": [],
-    "files.watcherExclude": {
-        "**/target": true
-    }
-}
