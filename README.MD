@@ -1,5 +1,7 @@
 # Cross-Chain Impact Credits
 
+> Group project for the **DDIB 25** course at the **University of Zurich (UZH)**. This is my fork of the team repository, kept so the project stays available here.
+
 **Overview**  
 **Cross-Chain Impact Credits** is a dual-ledger platform designed to **track and reward community contributions**. It issues **soulbound Impact Credits** on **Hedera** and anchors major milestones as **non-transferable NFTs** on **Cardano**, incentivizing participation in open-source, DAO, and civic initiatives.
 
